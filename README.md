@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyam-code-brunch&label=Profile%20views&color=0e75b6&style=flat" alt="shreyam-code-brunch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyam-code-brunch" alt="shreyam-code-brunch" /></a> </p>
 
 - 🔭 I’m currently working on *Problem solving*
 
